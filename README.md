@@ -15,3 +15,11 @@ This information is scraped from the Google Play Store. This app information wou
 ## Inspiration
 
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
+
+__key questions to explore:__
+- What type of apps get downloaded the most?
+- How do priced and free apps compare to each other in terms of downloads?
+- What content rating is most downloaded?
+- What genre types are the most popular?
+- Average rating for top 100 apps downloaded?
+- Highest install apps?
